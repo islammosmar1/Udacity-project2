@@ -1,7 +1,7 @@
 /**
  * Global Variables
  */
-const ACTIVE_SECTION_THRESHOLD = 150;
+const ACTIVE_SECTION_THRESHOLD = 150; // Threshold for activating sections
 
 /**
  * Helper Functions
@@ -96,3 +96,4 @@ document.getElementById("islam_navbar__list").addEventListener("click", (event) 
 
 // Update active section on scroll (using debounce)
 document.addEventListener("scroll", debounce(updateActiveSection));
+
