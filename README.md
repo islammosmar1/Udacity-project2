@@ -20,4 +20,4 @@ To use this project:
 
 1. Clone the repository:
    ```bash
- git clone 
+ git clone https://github.com/islammosmar1/Udacity-project2.git
