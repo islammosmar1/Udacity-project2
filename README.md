@@ -1,23 +1,27 @@
-# Project Title
+# Interactive User Interface Project
 
-This project implements a dynamic navigation menu where clicking on a navigation item smoothly scrolls to the corresponding section on the page. It utilizes JavaScript for managing the scroll behavior and dynamically creating the navigation items based on sections.
+## General Description
+This project is an interactive landing page that uses HTML, CSS, and JavaScript to create a page with dynamic navigation between different sections.
 
-## Features
+## Requirements
+- **Software**:  
+  - A modern browser (like Chrome or Firefox).
+  - A text editor for writing code (such as Visual Studio Code).
+- **Hardware**:  
+  - A computer running Windows, Mac, or Linux.
 
-- **Smooth Scroll:** Clicking on a navigation link scrolls smoothly to the appropriate section.
-- **Active Section Highlight:** As you scroll through the page, the navigation item for the active section is highlighted.
-- **Dynamic Navigation Menu:** The navigation menu is built dynamically from the section elements of the page.
+## Installation Instructions
+1. Download or clone the repository using Git.
+2. Open the folder in your chosen text editor.
+3. Open the `index.html` file in your browser to view the project.
 
-## Technologies Used
+## Files Included in the Project
+- `index.html`: Contains the structure of the page.
+- `css/styles.css`: CSS styles for the page.
+- `js/app.js`: JavaScript for enabling dynamic navigation.
 
-- **HTML5** for the structure of the page.
-- **CSS3** for the styling and smooth scroll effects.
-- **JavaScript** for dynamic content generation and scroll functionality.
+## Copyright and Licensing
+- This project is licensed under [Udacity] .
 
-## Installation
-
-To use this project:
-
-1. Clone the repository:
-   ```bash
- git clone https://github.com/islammosmar1/Udacity-project2.git
+## Known Bugs
+- No known bugs at the moment.
